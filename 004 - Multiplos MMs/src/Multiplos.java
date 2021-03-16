@@ -6,39 +6,10 @@
 	Obs: Enunciado no final do arquivo.
 */
 
-import java.util.Scanner;
-
 class Multiplos {
 
     public static void main (String args[]){
-    	int num = 0;
-    	
-    	Scanner ler = new Scanner(System.in);
-    	
-    	while(num<1 || num>10){
-        	System.out.print("Informe um número: ");
-        	num = ler.nextInt();    		
-    	}
-    	
-    	System.out.println("Número informado: " +num);
-    	
-    	for(int i=num;i<101;i++) {
-    		
-    		if(i%15==0){
-    			System.out.println("M15");
-    		}else{
-        		if(i%10==0){
-        			System.out.println("M10");
-        		}else{
-            		if(i%5==0){
-            			System.out.println("M5");
-            		}else{
-            			System.out.println(i);
-            		}
-        		}
-    		}
-    	}
-    	ler.close();
+    	//Múltiplos
     }
 }
 
