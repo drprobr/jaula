@@ -1,17 +1,17 @@
+package br.unip.brasilia;
+
 /*
 	OBJETIVO: Apresentar o básico de Collections 
 	ENTRADA: N/A
 	SAÍDA: Variável de acordo com a Collection
 */
 
-package br.unip.brasilia;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
-import java.util.HashSet;
-import java.util.LinkedHashSet;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
+//import java.util.HashSet;
+//import java.util.LinkedHashSet;
+//import java.util.HashMap;
+//import java.util.LinkedHashMap;
 
 public class Executora {
 
