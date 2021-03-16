@@ -1,3 +1,11 @@
+/*
+ 	Objetivo: Implementar exercício de validação modular (multiplos)
+ 	Entrada: Número entre 1 e 10 (incluindo 1 e 10)
+ 	Saída: Listagem de todos os números conforme enunciado, iniciando do número informado
+ 	    Até 100.
+	Obs: Enunciado no final do arquivo.
+*/
+
 import java.util.Scanner;
 
 class Multiplos {
@@ -34,34 +42,8 @@ class Multiplos {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 /*
 
-@@ Verificarei às 10:20hs 
- 
 Elabore um programa que receba um número entre 1 e 10.
 
 Imprima na tela todos os números, a partir do número informado acima até 100.
